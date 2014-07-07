@@ -1,0 +1,8 @@
+.gitignore/
+.gradle/
+build/
+eclipse/
+out/
+Enimagic.iml
+Enimagic.ipr
+Enimagic.iws
