@@ -4,8 +4,9 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import net.sciset.enimagic.block.Blocks;
 
-@Mod(modid="EniMagic", name="Enimagic", version="1.7.2-10")
+@Mod(modid="EniMagic", name="EniMagic", version="1.7.2-10")
 
 public class EniMagic
 {
@@ -17,7 +18,7 @@ public class EniMagic
     @Mod.EventHandler
     public void preInitialisation(FMLPreInitializationEvent event)
     {
-
+        Blocks.init();
     }
 
     // Initialisation Phase
