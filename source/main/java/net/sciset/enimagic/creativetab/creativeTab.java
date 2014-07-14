@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 
 public class creativeTab
 {
-    public static CreativeTabs customTab = new CreativeTabs("tabEniMagic")
+    public static final CreativeTabs ENIMAGICTAB = new CreativeTabs("EniMagic")
     {
         @Override
         @SideOnly(Side.CLIENT)

@@ -9,5 +9,5 @@ import cpw.mods.fml.common.IWorldGenerator;
 
 public class vaultGen //implements IWorldGenerator
 {
-
+    
 }
