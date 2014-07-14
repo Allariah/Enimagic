@@ -17,13 +17,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.2-1.0"
+version = "1.7.2-0.01"
 group= "net.sciset.enimagic" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "EniMagic"
+archivesBaseName = "modid"
 
 minecraft {
-    version = "1.7.2-10.12.2.1121"
-    //version = "1.7.2-10.12.2.1147"
+    version = "1.7.2-10.12.2.1147"
     assetDir = "eclipse/assets"
 }
 
