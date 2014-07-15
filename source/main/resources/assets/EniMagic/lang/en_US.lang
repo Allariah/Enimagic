@@ -1,0 +1,12 @@
+## Creative Tab
+
+itemGroup.EniMagic=EniMagic
+
+## Items
+item.coreShard.name=Core Shard
+
+## Blocks
+tile.Enigma_Core.name=Enigma Core
+tile.enigmaFlame.name=Enigma Flame
+tile.obsidian_Stairs.name=Obsidian Stairs
+tile.obsidian_Lighter.name=Obsidian Lighter

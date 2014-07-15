@@ -1,4 +1,8 @@
 package net.sciset.enimagic.fluids;
 
-public class Fluids {
+// Placeholder for possible future fluids
+
+public class Fluids
+{
+
 }

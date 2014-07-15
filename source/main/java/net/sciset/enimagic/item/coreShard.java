@@ -1,12 +1,14 @@
 package net.sciset.enimagic.item;
 
+import net.minecraft.item.Item;
 import net.sciset.enimagic.creativetab.creativeTab;
 
-public class Item_coreShard extends ItemEni
+public class coreShard extends ItemEni
 {
-    public Item_coreShard()
+    public coreShard()
     {
         super();
         this.setCreativeTab(creativeTab.ENIMAGICTAB);
+        this.setUnlocalizedName("coreShard");
     }
 }

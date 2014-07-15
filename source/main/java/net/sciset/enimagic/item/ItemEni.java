@@ -10,6 +10,7 @@ public class ItemEni extends Item
     {
         super();
         this.maxStackSize = 1;
+        this.setUnlocalizedName("NULL_NAME");
         //CreativeTab goes here
         this.setNoRepair();
     }
